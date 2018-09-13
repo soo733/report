@@ -1,4 +1,5 @@
 ### Algorithm Study 커리큘럼 (초안)
+<br>
 
 - 알고리즘이란
   - Big O notation
