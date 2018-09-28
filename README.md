@@ -19,6 +19,7 @@
   - Insertion sort
   - Bubble sort
   - Quick sort
+  - Merge sort
 - Search
   - Linear search
   - Binary search
